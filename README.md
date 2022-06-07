@@ -13,7 +13,7 @@ It uses react-csv to create the CSV download button.
 **1. Clone this repo**
 
 ```
-git clone https://github.com/olinations/crud-starter-frontend.git
+git clone https://github.com/yamamoto1025/React-frontend-starter.git
 ```
 
 **2. NPM install React and dependencies**
